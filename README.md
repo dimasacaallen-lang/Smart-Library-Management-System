@@ -9,6 +9,7 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Jonna Mae Quitoy
-IT 3012 - System Integration and Architecture 1
-SD 2C
+
+Student Name: Jonna Mae Quitoy
+Course: IT 3012 - System Integration and Architecture 1
+Section: BSIT SD 2C

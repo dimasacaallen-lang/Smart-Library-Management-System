@@ -27,3 +27,10 @@ Features
 - Search Member
 
 Book Reservation Module
+
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
